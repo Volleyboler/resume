@@ -1,13 +1,11 @@
- 	Илья Трегуб
-    ![фото]([ссылка на фото](https://github.com/Volleyboler/resume/blob/main/tregub_photo_bg.jpg))
-тел. +7 (908) 923-58-77
-email: forgotten-devil@mail.ru
-tg: @Volleyboler
-
-
-Python-разработчик	
-
-
+![Фото](https://github.com/Volleyboler/resume/blob/main/tregub_photo_bg.jpg)  
+Илья Трегуб  
+***Python-разработчик***  
+тел. +7 (908) 923-58-77  
+email: forgotten-devil@mail.ru  
+tg: @Volleyboler  
+  
+  
 КЛЮЧЕВЫЕ КОМПЕТЕНЦИИ  
 - Формулирование идей продукта
 - Написание программного кода на языке Python
