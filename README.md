@@ -1,5 +1,5 @@
  	Илья Трегуб
-    ![фото](ссылка на фото)
+    ![фото]([ссылка на фото](https://github.com/Volleyboler/resume/blob/main/tregub_photo_bg.jpg))
 тел. +7 (908) 923-58-77
 email: forgotten-devil@mail.ru
 tg: @Volleyboler
