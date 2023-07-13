@@ -1,4 +1,6 @@
-![Фото](https://github.com/Volleyboler/resume/blob/main/tregub_photo_bg.jpg)  
+![Фото](tregub_photo_bg.jpg)  
+
+
 Илья Трегуб  
 ***Python-разработчик***  
 тел. +7 (908) 923-58-77  
